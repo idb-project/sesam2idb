@@ -10,4 +10,4 @@ an [idb](https://github.com/idb-project/the-idb) instance.
 
 # Authors
 
-Eike-Christian Mueller - emueller at ennit.net
+Eike-Christian Mueller - emueller at ennit.de
